@@ -1,3 +1,11 @@
+# Testing Uploads
+Quiz/SHunt/static/uploads/*
+Quiz/SHunt/static/CACHE/*
+
+# Django DB migrations
+Quiz/SHunt/migrations
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
